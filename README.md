@@ -1,1 +1,5 @@
-Food
+[[Curried Chickpeas with spinach]]
+[[Poor Man's Burrito Bowls]]
+[[Pizza Melts]]
+[[Hearty Black Bean Quesadillas]]
+[[obsidian://open?vault=Food&file=Poor%20Man's%20Burrito%20Bowls]]
