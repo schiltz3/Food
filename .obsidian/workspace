@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "58192b3e9326e63a",
+    "type": "split",
+    "children": [
+      {
+        "id": "8dacba4fdde9b1b3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Curried Chickpeas with spinach.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "deb6f2f572210957",
+    "type": "split",
+    "children": [
+      {
+        "id": "333e100108bf0158",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52ee7a4ba1cf87ba",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "cf072aabcfdd79ba",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7c6c5dad2cc85e3c",
+    "type": "split",
+    "children": [
+      {
+        "id": "d817916f98fe2b6d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0fefc219640f81d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Curried Chickpeas with spinach.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8dacba4fdde9b1b3",
+  "lastOpenFiles": [
+    "Curried Chickpeas with spinach.md",
+    "Recipies.md",
+    "Pizza Melts.md",
+    "Hearty Black Bean Quesadillas.md",
+    "Pasted image 20220203164100.png",
+    "Poor Man's Burrito Bowls.md"
+  ]
+}
