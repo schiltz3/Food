@@ -3,4 +3,4 @@
 [Poor Man's Burrito Bowls](Poor%20Man's%20Burrito%20Bowls.md)
 
 [Pizza Melts](Pizza%20Melts.md)
-[Hearty Black Bean Quesadillas](Hearty%20Black%20Been%20Quesadillas.md)
+[Hearty Black Bean Quesadillas](Hearty%20Black%20Bean%20Quesadillas.md)
